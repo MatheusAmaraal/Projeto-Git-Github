@@ -4,7 +4,7 @@ Esse projeto é a simulação de um ambiente real de engenharia de dados.
 
 A proposta não é só rodar código Python, mas montar um ambiente **reproduzível**: que qualquer pessoa consiga clonar e rodar, com versões do Python controladas, dependências declaradas, credenciais separadas do código e versionamento com Git e GitHub.
 
-> Projeto desenvolvido na Pós-graduação em Engenharia de Dados da **Xperiun**.
+> Projeto desenvolvido no curso de formação em inteligência artificial & automações da **Xperiun**.
 
 ---
 
